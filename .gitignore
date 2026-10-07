@@ -2,3 +2,5 @@
 __pycache__/
 practicals/
 *.json
+environmental_clean.txt
+environmental_raw.txt
